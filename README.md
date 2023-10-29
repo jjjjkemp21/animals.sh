@@ -1,7 +1,7 @@
 # animals
 ## Identifying Information: 
 1. Name: Jimmy Kemp
-2. Student ID: 
+2. Student ID: 002400636
 3. Email: jkemp@chapman.edu
 4. Class: CPSC-298-04
 5. Assignment: animals 
@@ -22,8 +22,10 @@ The script will
 3. animals.png
 
 ## Known Errors 
+None
 
 ## References
+None
 
 ## Instructions
 To run the script with input from the included animals-input file:   
